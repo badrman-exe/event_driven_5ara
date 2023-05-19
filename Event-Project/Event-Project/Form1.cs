@@ -39,12 +39,13 @@ namespace Event_Project
             SqlConnection sqlcon = new SqlConnection(constring);
             sqlcon.Open();
             SqlDataAdapter sda = new SqlDataAdapter("SELECT * FROM employee WHERE employee_id='" + username.Text + "' AND employee_pw='" + password.Text + "'", sqlcon);
-            /* in above line the program is selecting the whole data from table and the matching it with the user name and password provided by user. */
-            DataTable dt = new DataTable(); //this is creating a virtual table  
+            DataTable dt = new DataTable();  
             sda.Fill(dt);
             if (dt.Rows.Count == 1)
             {
-                MessageBox.Show("correct");
+                Form2 f = new Form2();
+                f.Show();
+                this.Hide();
             }
             else
                 MessageBox.Show("Invalid username or password");

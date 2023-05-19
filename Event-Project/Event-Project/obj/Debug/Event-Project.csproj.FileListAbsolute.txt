@@ -10,3 +10,15 @@ C:\Users\hp\Downloads\Event-Project\Event-Project\Event-Project\obj\Debug\Event-
 C:\Users\hp\Downloads\Event-Project\Event-Project\Event-Project\obj\Debug\Event-Project.csproj.CoreCompileInputs.cache
 C:\Users\hp\Downloads\Event-Project\Event-Project\Event-Project\obj\Debug\Event-Project.exe
 C:\Users\hp\Downloads\Event-Project\Event-Project\Event-Project\obj\Debug\Event-Project.pdb
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\bin\Debug\Event-Project.exe.config
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\bin\Debug\Event-Project.exe
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\bin\Debug\Event-Project.pdb
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\obj\Debug\Event-Project.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\obj\Debug\Event_Project.Form1.resources
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\obj\Debug\Event_Project.Form2.resources
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\obj\Debug\Event_Project.Form3.resources
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\obj\Debug\Event_Project.Properties.Resources.resources
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\obj\Debug\Event-Project.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\obj\Debug\Event-Project.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\obj\Debug\Event-Project.exe
+C:\Users\hp\source\repos\5ara\Event-Project\Event-Project\obj\Debug\Event-Project.pdb

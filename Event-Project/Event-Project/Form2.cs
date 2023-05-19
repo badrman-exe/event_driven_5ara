@@ -21,5 +21,18 @@ namespace Event_Project
         {
 
         }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            
+            
+        }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3 f = new Form3();
+            f.Show();
+        }
     }
 }
