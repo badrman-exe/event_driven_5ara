@@ -46,34 +46,52 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Log in.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Log in.Designer.cs">
+      <DependentUpon>Log in.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2.cs">
+    <Compile Include="Home.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form3.cs">
+    <Compile Include="Check-in.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form3.Designer.cs">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <Compile Include="Check-in.Designer.cs">
+      <DependentUpon>Check-in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Check-out.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Check-out.Designer.cs">
+      <DependentUpon>Check-out.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Check price.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Check price.Designer.cs">
+      <DependentUpon>Check price.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Log in.resx">
+      <DependentUpon>Log in.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <EmbeddedResource Include="Check-in.resx">
+      <DependentUpon>Check-in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Check-out.resx">
+      <DependentUpon>Check-out.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Check price.resx">
+      <DependentUpon>Check price.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
